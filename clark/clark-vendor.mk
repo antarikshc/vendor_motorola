@@ -20,22 +20,29 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/bin/adspd:system/bin/adspd \
     vendor/motorola/clark/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/motorola/clark/proprietary/bin/batt_health:system/bin/batt_health \
+    vendor/motorola/clark/proprietary/bin/btsnoop:system/bin/btsnoop \
     vendor/motorola/clark/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/motorola/clark/proprietary/bin/cnd:system/bin/cnd \
+    vendor/motorola/clark/proprietary/bin/cnss-daemon:system/bin/cnss-daemon \
     vendor/motorola/clark/proprietary/bin/dbvc_atvc_property_set:system/bin/dbvc_atvc_property_set \
     vendor/motorola/clark/proprietary/bin/diag_klog:system/bin/diag_klog \
     vendor/motorola/clark/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
     vendor/motorola/clark/proprietary/bin/diag_mdlog-getlogs:system/bin/diag_mdlog-getlogs \
     vendor/motorola/clark/proprietary/bin/diag_mdlog-wrap:system/bin/diag_mdlog-wrap \
     vendor/motorola/clark/proprietary/bin/diag_qshrink4_daemon:system/bin/diag_qshrink4_daemon \
+    vendor/motorola/clark/proprietary/bin/dun-server:system/bin/dun-server \
     vendor/motorola/clark/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
+    vendor/motorola/clark/proprietary/bin/ftmdaemon:system/bin/ftmdaemon \
     vendor/motorola/clark/proprietary/bin/hardware_revisions.sh:system/bin/hardware_revisions.sh \
     vendor/motorola/clark/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/motorola/clark/proprietary/bin/ipacm-diag:system/bin/ipacm-diag \
     vendor/motorola/clark/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/motorola/clark/proprietary/bin/loc_launcher:system/bin/loc_launcher \
+    vendor/motorola/clark/proprietary/bin/bin/logwrapper:system/bin/logwrapper \
     vendor/motorola/clark/proprietary/bin/lowi-server:system/bin/lowi-server \
+    vendor/motorola/clark/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/motorola/clark/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
+    vendor/motorola/clark/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/motorola/clark/proprietary/bin/motosh:system/bin/motosh \
     vendor/motorola/clark/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
     vendor/motorola/clark/proprietary/bin/netmgrd:system/bin/netmgrd \
