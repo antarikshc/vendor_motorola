@@ -19,13 +19,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/motorola/clark/proprietary/bin/adspd:system/bin/adspd \
     vendor/motorola/clark/proprietary/bin/adsprpcd:system/bin/adsprpcd \
-    vendor/motorola/clark/proprietary/bin/batt_health:system/bin/batt_health \
     vendor/motorola/clark/proprietary/bin/btsnoop:system/bin/btsnoop \
     vendor/motorola/clark/proprietary/bin/bt_logger:system/bin/bt_logger \
     vendor/motorola/clark/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/motorola/clark/proprietary/bin/cnd:system/bin/cnd \
     vendor/motorola/clark/proprietary/bin/cnss-daemon:system/bin/cnss-daemon \
-    vendor/motorola/clark/proprietary/bin/cnss_daemon:system/bin/cnss_diag \
+    vendor/motorola/clark/proprietary/bin/cnss_diag:system/bin/cnss_diag \
     vendor/motorola/clark/proprietary/bin/dbvc_atvc_property_set:system/bin/dbvc_atvc_property_set \
     vendor/motorola/clark/proprietary/bin/diag_klog:system/bin/diag_klog \
     vendor/motorola/clark/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
@@ -40,7 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/bin/ipacm-diag:system/bin/ipacm-diag \
     vendor/motorola/clark/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/motorola/clark/proprietary/bin/loc_launcher:system/bin/loc_launcher \
-    vendor/motorola/clark/proprietary/bin/bin/logwrapper:system/bin/logwrapper \
+    vendor/motorola/clark/proprietary/bin/logwrapper:system/bin/logwrapper \
     vendor/motorola/clark/proprietary/bin/lowi-server:system/bin/lowi-server \
     vendor/motorola/clark/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/motorola/clark/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
