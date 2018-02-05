@@ -43,7 +43,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/bin/lowi-server:system/bin/lowi-server \
     vendor/motorola/clark/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/motorola/clark/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/motorola/clark/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/motorola/clark/proprietary/bin/motosh:system/bin/motosh \
     vendor/motorola/clark/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
     vendor/motorola/clark/proprietary/bin/netmgrd:system/bin/netmgrd \
